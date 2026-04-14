@@ -96,30 +96,6 @@ http://127.0.0.1:5000
 
 ---
 
-## 📁 Project Structure
-
-```
-Crop-Recommendation-System/
-│
-├── app.py
-├── model.pkl
-├── standscaler.pkl
-├── minmaxscaler.pkl
-├── requirements.txt
-├── Procfile
-│
-├── templates/
-│   └── index.html
-│
-├── static/
-│   └── img.jpg
-│
-└── dataset/
-    └── Crop_recommendation.csv
-```
-
----
-
 ## 🚀 Future Improvements
 
 * 🌐 Add React frontend
